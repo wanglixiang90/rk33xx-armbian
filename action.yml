@@ -1,4 +1,4 @@
-name: "Rebuild Armbian and Kernel"
+name: "Rebuild Armbian and Kernel for rk3399"
 author: "https://github.com/Lemon1151/rk33xx-armbian"
 description: "Support Rockchip boxes."
 inputs:
